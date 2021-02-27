@@ -1,4 +1,38 @@
-### Hi there 👋
+## Bem-vindo ✌️  
+  
+
+Eu me chamo __Luiz Henrique Lobo__ e este é um pequeno
+resumo da minha vida nesse maravilhoso universo da tecnologia.
+
+### Sobre mim 👦  
+  
+
+* Apaixonado por programação, jogos e aprendizado!
+
+* Estudante de Análise e Desenvolvimento de Sistemas [(IFBA)](https://portal.ifba.edu.br/).
+
+* Estagiário da [(MyCOND)](https://mycond.com.br/).
+
+* Futuro __Game Developer__.
+
+### Aprendendo 📖
+
+* C
+
+* JavaScript
+
+* HTML e CSS
+
+* GML
+
+### Principal Projeto 💻  
+
+Atualmente tenho um projeto independente chamado [The Impossible Journey](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey), se trata de um jogo do gênero plataforma em 2D extremamente
+desafiador e divertido, confira o repositório para mais informações.  
+  
+  
+
+![Luiz Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizhenriquelobo1&show_icons=true)
 
 <!--
 **LuizHenriqueLobo1/luizhenriquelobo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
