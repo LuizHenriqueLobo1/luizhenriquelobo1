@@ -1,10 +1,10 @@
-## Bem-vindo ✌️  
+### Bem-vindo ao meu perfil ✌️  
   
 
 Eu me chamo __Luiz Henrique Lobo__ e este é um pequeno
 resumo da minha vida nesse maravilhoso universo da tecnologia.
 
-### Sobre mim 👦  
+## Sobre mim 👦   
   
 
 * Apaixonado por programação, jogos e aprendizado!
@@ -15,7 +15,7 @@ resumo da minha vida nesse maravilhoso universo da tecnologia.
 
 * Futuro __Game Developer__.
 
-### Aprendendo 📖
+## Aprendendo 📘  
 
 * C
 
@@ -25,7 +25,7 @@ resumo da minha vida nesse maravilhoso universo da tecnologia.
 
 * GML
 
-### Principal Projeto 💻  
+## Principal Projeto 💻  
 
 Atualmente tenho um projeto independente chamado [The Impossible Journey](https://github.com/LuizHenriqueLobo1/The-Impossible-Journey), se trata de um jogo do gênero plataforma em 2D extremamente
 desafiador e divertido, confira o repositório para mais informações.  
