@@ -11,8 +11,6 @@ resumo da minha vida nesse maravilhoso universo da tecnologia.
 
 * Estudante de Análise e Desenvolvimento de Sistemas [(IFBA)](https://portal.ifba.edu.br/).
 
-* Estagiário da [(MyCOND)](https://mycond.com.br/).
-
 * Futuro __Game Developer__.
 
 ### Aprendendo 📘  
