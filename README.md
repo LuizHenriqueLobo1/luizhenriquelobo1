@@ -30,7 +30,7 @@ desafiador e divertido, confira o repositório para mais informações.
   
   
 
-![Luiz Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizhenriquelobo1&show_icons=true)
+![Luiz Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizhenriquelobo1&theme=tokyonight&show_icons=true)
 
 <!--
 **LuizHenriqueLobo1/luizhenriquelobo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
