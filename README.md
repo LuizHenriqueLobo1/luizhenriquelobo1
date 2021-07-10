@@ -1,8 +1,7 @@
-# Bem-vindo ao meu perfil ✌️  
+# Bem-vindo ao meu perfil  
   
 
-Eu me chamo __Luiz Henrique Lobo__ e este é um pequeno
-resumo da minha vida nesse maravilhoso universo da tecnologia.
+Oi, eu sou __Luiz Henrique Lobo__.
 
 ### Sobre mim 👦   
   
