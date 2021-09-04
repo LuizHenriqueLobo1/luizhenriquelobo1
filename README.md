@@ -1,4 +1,4 @@
-## Oi, eu sou o __Luiz__.  
+## Oi, eu sou o __Luiz__  
 
 ### Sobre mim  
 
@@ -18,7 +18,5 @@
 ![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GMS](https://img.icons8.com/color/48/000000/game-maker.png)  
-
-### Estatísticas  
 
 ![Luiz Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizhenriquelobo1&theme=tokyonight&show_icons=true)
