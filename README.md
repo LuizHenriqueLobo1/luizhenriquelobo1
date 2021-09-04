@@ -1,40 +1,24 @@
-# Bem-vindo ao meu perfil  
-  
+## Oi, eu sou o __Luiz__.  
 
-Oi, eu sou __Luiz Henrique Lobo__.
+### Sobre mim  
 
-### Sobre mim 👦   
-  
+* Estudante de Análise e Desenvolvimento de Sistemas no [IFBA](https://portal.ifba.edu.br/)  
 
-* Apaixonado por programação, jogos e aprendizado!
+* Atualmente focado em front-end web development
 
-* Estudante de Análise e Desenvolvimento de Sistemas [(IFBA)](https://portal.ifba.edu.br/).
+* Desenvolvedor de jogos Indie nas horas vagas  
 
-* Futuro __Game Developer__.
+### Tecnologias  
 
-### Aprendendo 📘  
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![HTML](https://img.icons8.com/color/50/000000/html-5--v1.png)
+![CSS](https://img.icons8.com/color/50/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
+![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GMS](https://img.icons8.com/color/48/000000/game-maker.png)  
 
-* C
-
-* JavaScript
-
-* HTML e CSS
-
-* GML  
+### Estatísticas  
 
 ![Luiz Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizhenriquelobo1&theme=tokyonight&show_icons=true)
-
-<!--
-**LuizHenriqueLobo1/luizhenriquelobo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
