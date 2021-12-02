@@ -11,12 +11,13 @@
 ### Tecnologias  
 
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![HTML](https://img.icons8.com/color/50/000000/html-5--v1.png)
-![CSS](https://img.icons8.com/color/50/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![CSS](https://img.icons8.com/color/50/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 ![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![GMS](https://img.icons8.com/color/48/000000/game-maker.png)  
+![Git](https://img.icons8.com/color/48/000000/git.png)  
 
 ![Luiz Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizhenriquelobo1&theme=tokyonight&show_icons=true)
