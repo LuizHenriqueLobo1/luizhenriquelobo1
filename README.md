@@ -14,7 +14,7 @@
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
-![Node](https://img.icons8.com/color/48/000000/nodejs.png)
+![Node](https://img.icons8.com/fluency/48/000000/node-js.png)
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 ![React](https://img.icons8.com/office/48/000000/react.png)
 ![Java](https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png)
