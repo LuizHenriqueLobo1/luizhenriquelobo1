@@ -2,11 +2,11 @@
 
 ### Sobre mim  
 
+* Apaixonado por jogos e programação
+
 * Estudante de Análise e Desenvolvimento de Sistemas no [IFBA](https://portal.ifba.edu.br/)  
 
-* Atualmente focado em front-end web development
-
-* Desenvolvedor de jogos Indie nas horas vagas  
+* Estagiando na [Bragi Estúdios](https://bragiestudios.com/) como programador de jogos
 
 ### Tecnologias  
 
