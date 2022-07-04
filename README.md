@@ -1,12 +1,12 @@
-## Oi, eu sou o __Luiz__  
+## Oi, eu sou o __Luiz Henrique__  
 
 ### Sobre mim  
 
-* Apaixonado por jogos e programação
+* Apaixonado por programação, jogos e aprendizado
 
-* Estudante de Análise e Desenvolvimento de Sistemas no [IFBA](https://portal.ifba.edu.br/)  
+* Estudante de Análise e Desenvolvimento de Sistemas no [IFBA](https://portal.ifba.edu.br/). 
 
-* Estagiando na [Bragi Estúdios](https://bragiestudios.com/) como programador de jogos
+* Atualmente estagiando na [Bragi Estúdios](https://bragiestudios.com/) como game developer
 
 ### Tecnologias  
 
