@@ -2,11 +2,11 @@
 
 ### Sobre mim  
 
-* Apaixonado por programação, jogos e aprendizado
+* Apaixonado por programação, jogos e aprendizado.
 
 * Estudante de Análise e Desenvolvimento de Sistemas no [IFBA](https://portal.ifba.edu.br/). 
 
-* Atualmente estagiando na [Bragi Estúdios](https://bragiestudios.com/) como game developer
+* Atualmente estagiando na [Bragi Estúdios](https://bragiestudios.com/) como game developer.
 
 ### Tecnologias  
 
