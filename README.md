@@ -8,6 +8,8 @@
 
 * Atualmente estagiando na [Bragi Estúdios](https://bragiestudios.com/) como game developer.
 
+* Você pode me encontrar [aqui](https://www.linkedin.com/in/luiz-henrique-lobo/).
+
 ### Tecnologias  
 
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
