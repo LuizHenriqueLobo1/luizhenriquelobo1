@@ -22,5 +22,6 @@
 ![Angular](https://img.icons8.com/color/48/000000/angularjs.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
 
 ![Luiz Henrique GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizhenriquelobo1&theme=tokyonight&show_icons=true)
