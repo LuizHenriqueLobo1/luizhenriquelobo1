@@ -6,7 +6,7 @@
 
 * Estudante de Análise e Desenvolvimento de Sistemas no [IFBA](https://portal.ifba.edu.br/). 
 
-* Atualmente trabalhando na [QRPoint](https://www.qrpoint.com.br) como desenvolvedor full stack júnior.
+* Atualmente trabalhando na [QRPoint](https://www.qrpoint.com.br) como desenvolvedor full stack pleno.
 
 * Você pode me encontrar [aqui](https://www.linkedin.com/in/luiz-henrique-lobo/).
 
